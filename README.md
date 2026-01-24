@@ -9,6 +9,29 @@ Preparing data for BI tools
 Building interactive dashboards under real tool constraints
 This project is internship-ready and resume-ready.
 
+Power BI Dashboard
+
+Dashboard Pages
+
+Doctor Performance – Doctor-wise appointment load with specialization slicer
+Revenue Analysis – Monthly revenue trends and KPI card
+Patient Analytics – Visit frequency and patient category distribution
+Treatment Analysis – Most common treatments performed
+
+Power BI Workflow (Browser-Based)
+
+SQL queries executed in MySQL
+Analytical results exported as CSV files
+CSV files uploaded to Power BI Service as semantic models
+Visuals created using bar charts, line charts, pie charts, cards, and slicers
+
+Key Insights
+
+Identified high-workload doctors to support staffing and scheduling decisions
+Observed monthly revenue patterns for financial analysis
+Classified patients into New, Regular, and Frequent segments
+Determined the most demanded treatments for operational planning
+
 Business Objectives
 
 The project answers the following business questions:
