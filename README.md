@@ -48,4 +48,10 @@ SQL – Data modeling, transformations, business logic
 Power BI Service (Browser) – Dashboard creation and visualization
 CSV / Excel – Intermediate data preprocessing (browser-compatible approach)
 
+Future Improvements
+
+Integrate Power BI Desktop for advanced DAX modeling
+Add predictive analytics for appointment demand
+Automate data refresh pipelines using scheduled jobs
+
 Note: Power BI Desktop was not used due to platform constraints. All modeling logic was handled in SQL and CSV preprocessing.
