@@ -7,7 +7,7 @@ Designing a relational database
 Writing analytical SQL queries
 Preparing data for BI tools
 Building interactive dashboards under real tool constraints
-This project is internship-ready and resume-ready..
+This project is internship-ready and resume-ready.
 
 Power BI Dashboard
 
